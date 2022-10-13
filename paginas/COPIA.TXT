@@ -1,0 +1,69 @@
+    <div class="contenedor">
+                <div class="div-container-1">
+                    <img src="https://conviertemas.com/wp-content/uploads/2022/09/marketing-de-afiliados-1.png"
+                        alt="">
+                    <h3>Marketing de afiliados: ¿Que es y como comenzar?</h3>
+                    <p>Inicia en el mundo de los negocios online y recibe ingresos en cualquier momento y sin importar
+                        donde te encuentres</p>
+                </div>
+                <div class="div-container-2">
+                    <img src="https://conviertemas.com/wp-content/uploads/2022/09/crear-un-blog-Convierte-Mas-300x200.png"
+                        alt="">
+                    <h3>Mini guía: Aprende a crear un blog efectivo en poco tiempo</h3>
+                    <p>¿Eres experto en un área o te apasiona compartir tus conocimientos con los demás? No importa cuál
+                        sea el área</p>
+                </div>
+            </div>
+            <hr />
+            <div class="contenedor">
+                <div class="div-container-1">
+                    <img src="https://conviertemas.com/wp-content/uploads/2022/09/marketing-de-afiliados-1.png"
+                        alt="">
+                    <h3>7 herramientas para un funnel de ventas</h3>
+                    <p>¿Cuáles son las mejores herramientas para un funnel de ventas? Podemos responder mencionando
+                        algunas de ellas, ya que existen diferentes</p>
+                </div>
+                <div class="div-container-2">
+                    <img src="https://conviertemas.com/wp-content/uploads/2022/09/crear-un-blog-Convierte-Mas.png"
+                        alt="">
+                    <h3>Pasos para crear tu primer funnel de ventas</h3>
+                    <p>Logra más conversiones en tu negocio o el de tus clientes con la implementación de funnels de
+                        ventas y facilítale</p>
+                </div>
+
+            
+            <div class="contenedor">
+                <div class="div-container-1">
+                    <img src="https://conviertemas.com/wp-content/uploads/2022/09/marketing-de-afiliados-1.png"
+                        alt="">
+                    <h3>Cómo construir comunidad en tu cuenta de Instagram</h3>
+                    <p>¿No sabes cómo construir comunidad en Instagram? Si has intentado atraer a una mayor audiencia a
+                        tu cuenta de Instagram,</p>
+                </div>
+                <div class="div-container-2">
+                    <img src="https://conviertemas.com/wp-content/uploads/2022/09/crear-un-blog-Convierte-Mas.png"
+                        alt="">
+                    <h3>Generación Z: Cómo conectar con esta audiencia en redes sociales
+                    </h3>
+                    <p>¿Cómo conectar con la generación Z? Es la pregunta que muchas marcas y negocios se hacen en la
+                        actualidad y</p>
+                </div>
+
+            </div>
+            <div class="contenedor">
+                <div class="div-container-1">
+                    <img src="https://conviertemas.com/wp-content/uploads/2022/09/marketing-de-afiliados-1.png"
+                        alt="">
+                    <h3>Aprende a usar los pilares de contenido para tu estrategia de redes sociales</h3>
+                    <p>Crear publicaciones en redes sociales toma más tiempo de lo que muchos piensan, en especial
+                        durante esos días en los</p>
+                </div>
+                <div class="div-container-2">
+                    <img src="https://conviertemas.com/wp-content/uploads/2022/09/crear-un-blog-Convierte-Mas.png"
+                        alt="">
+                    <h3>Pasos para crear un plan de ventas</h3>
+                    <p>Para vender productos o servicios necesitamos establecer los objetivos, las herramientas, los
+                        procesos necesarios para alcanzar dichos objetivos y esto</p>
+                </div>
+
+            </div>

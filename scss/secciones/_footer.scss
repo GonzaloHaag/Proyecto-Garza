@@ -1,97 +1,173 @@
-.pie{
-    background: #140b5c;
-    margin-top: 100px;
+footer {
+    //position: fixed;
+    bottom: 0;
 }
-img{
-    width: 250px;
+
+@media (max-height:800px) {
+    footer {
+        position: static;
+    }
+    header {
+        padding-top: 40px;
+    }
 }
-.logo{
-    display: flex;
-    align-items: center;
-    gap: 10px
+
+.footer-distributed {
+    //background-color: #2d2a30;
+    background-color: rgb(84, 84, 196);
+    box-sizing: border-box;
+    width: 100%;
+    text-align: left;
+    font: bold 16px sans-serif;
+    padding: 50px 50px 60px 50px;
+    margin-top: 80px;
 }
-span{
-    font-size: 23px;
-    margin-right: 10px;
+
+.footer-distributed .footer-left, .footer-distributed .footer-center, .footer-distributed .footer-right {
+    display: inline-block;
+    vertical-align: top;
 }
-.fb{
-    background: rgb(0, 81, 255);
-    padding: 8px;
-    border-radius: 50px;
-    color: white;
+
+/* Footer left */
+
+.footer-distributed .footer-left {
+    width: 30%;
 }
-.tw{
-    background: rgb(0, 140, 255);
-    padding: 8px;
-    border-radius: 50px;
-    color: white;
+
+.footer-distributed h3 {
+    color: #ffffff;
+    font: normal 36px 'Cookie', cursive;
+    margin: 0;
 }
-.in{
-    background: rgb(255, 0, 179);
-    padding: 8px;
-    border-radius: 50px;
-    color: white;
+
+
+.footer-distributed h3 span {
+    color: #e0ac1c;
 }
-.li{
-    background: rgb(0, 102, 255);
-    padding: 8px;
-    border-radius: 50px;
-    color: white;
+
+/* Footer links */
+
+.footer-distributed .footer-links {
+    color: #ffffff;
+    margin: 20px 0 12px;
 }
-.yt{
-    background: rgb(255, 0, 0);
-    padding: 8px;
-    border-radius: 50px;
-    color: white;
-}
-.header{
-    display: flex;
-    justify-content: space-around;
-    padding: 20px;
-    align-items: center;
-}
-.logotipo{
-    font-size: 18px;
-    color: white;
-}
-.section{
-    display: flex;
-    justify-content: space-evenly;
-    gap: 200px;
-}
-.section div{
-    display: flex;
-    flex-direction: column;
-}
-div h2{
-    color: white;
-    padding: 10px 0;
-}
-a{
-    color: rgba(255, 255, 255, 0.527);
+
+.footer-distributed .footer-links a {
+    display: inline-block;
+    line-height: 1.8;
     text-decoration: none;
-    padding: 5px;
+    color: inherit;
 }
-form{
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
+
+.footer-distributed .footer-company-name {
+    color: #8f9296;
+    font-size: 14px;
+    font-weight: normal;
+    margin: 0;
 }
-input{
-    background: none;
-    border: solid 2px white;
-    padding: 10px 20px;
+
+/* Footer Center */
+
+.footer-distributed .footer-center {
+    width: 35%;
 }
-button{
-    padding: 10px 20px;
-    background: white;
-    color: blueviolet;
+
+.footer-distributed .footer-center i {
+    background-color: #33383b;
+    color: #ffffff;
+    font-size: 25px;
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 42px;
+    margin: 10px 15px;
+    vertical-align: middle;
+}
+
+.footer-distributed .footer-center i.fa-envelope {
+    font-size: 17px;
+    line-height: 38px;
+}
+
+.footer-distributed .footer-center p {
+    display: inline-block;
+    color: #ffffff;
+    vertical-align: middle;
+    margin: 0;
+}
+
+.footer-distributed .footer-center p span {
+    display: block;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 2;
+}
+
+.footer-distributed .footer-center p a {
+    color: #e0ac1c;
+    text-decoration: none;
+    ;
+}
+
+/* Footer Right */
+
+.footer-distributed .footer-right {
+    width: 30%;
+}
+
+.footer-distributed .footer-company-about {
+    line-height: 20px;
+    color: #92999f;
+    font-size: 13px;
+    font-weight: normal;
+    margin: 0;
+}
+
+.footer-distributed .footer-company-about span {
+    display: block;
+    color: #ffffff;
     font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
 }
-.derechos{
-    display: flex;
-    justify-content: space-between;
-    padding: 20px;
-    background: #0a0433;
-    color: white;
+
+.footer-distributed .footer-icons {
+    margin-top: 25px;
 }
+
+.footer-distributed .footer-icons a {
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+    background-color: #33383b;
+    border-radius: 2px;
+    font-size: 20px;
+    color: #ffffff;
+    text-align: center;
+    line-height: 35px;
+    margin-right: 3px;
+    margin-bottom: 5px;
+}
+
+.footer-distributed .footer-icons a:hover {
+    background-color: #3F71EA;
+}
+
+.footer-links a:hover {
+    color: #3F71EA;
+}
+
+@media (max-width: 1010px) {
+    .footer-distributed .footer-left, .footer-distributed .footer-center, .footer-distributed .footer-right {
+        display: block;
+        width: 100%;
+        margin-bottom: 40px;
+        text-align: center;
+    }
+    .footer-distributed .footer-center i {
+        margin-left: 0;
+    }
+}       
+        
